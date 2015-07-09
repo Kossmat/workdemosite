@@ -1,2 +1,0 @@
-# workdemosite
-workdemosite by dmitry
